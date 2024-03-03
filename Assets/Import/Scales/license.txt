@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scales
+* source:	https://sketchfab.com/3d-models/scales-918f62b9d3874fbb909b077b94a2d355
+* author:	farooq.smurf (https://sketchfab.com/farooq.smurf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scales" (https://sketchfab.com/3d-models/scales-918f62b9d3874fbb909b077b94a2d355) by farooq.smurf (https://sketchfab.com/farooq.smurf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

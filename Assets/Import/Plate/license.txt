@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plate
+* source:	https://sketchfab.com/3d-models/plate-2a57ae9102c64ad4893317e016a7e792
+* author:	sasazernosek444 (https://sketchfab.com/sasazernosek444)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plate" (https://sketchfab.com/3d-models/plate-2a57ae9102c64ad4893317e016a7e792) by sasazernosek444 (https://sketchfab.com/sasazernosek444) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
