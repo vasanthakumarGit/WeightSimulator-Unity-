@@ -28,7 +28,7 @@ This project is a Unity-based simulator game that offers users an interactive ex
 
 ## Screenshots
 
-![Simulator Screenshot](/screenshots/simulator.png)
+![Simulator Screenshot](Demos/weight simulator bg2.png)
 
 ## Dependencies
 
