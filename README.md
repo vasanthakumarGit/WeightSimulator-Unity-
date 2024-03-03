@@ -31,17 +31,4 @@ This project is a Unity-based simulator game that offers users an interactive ex
 
 ## Dependencies
 
-- Unity 3D (version x.x.x)
-- [Additional dependencies if any]
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Special thanks to [List of contributors or external libraries used].
+- Unity 3D (version 2022.3.4f1)
