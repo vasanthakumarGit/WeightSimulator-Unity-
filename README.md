@@ -27,8 +27,7 @@ This project is a Unity-based simulator game that offers users an interactive ex
    - Observe the visual feedback to determine balance.
 
 ## Screenshots
-
-![Simulator Screenshot](Demos/weight simulator bg2.png)
+![Weight Simulator Background](Demos/weight%20simulator%20bg2.png)
 
 ## Dependencies
 
